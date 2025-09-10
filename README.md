@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaio  
 
-<!--
-**kaiosantos-jpg/kaiosantos-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou aluno iniciante em programação, atualmente aprendendo **Python**.  
+💡 Interesses: automação, análise de dados e desenvolvimento de projetos para praticar lógica de programação.  
+📚 Sempre buscando aprender novas ferramentas e melhorar minhas habilidades.  
 
-Here are some ideas to get you started:
+---
+![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BvZTMyYW0yOHAzdjNkMjN3dW56ajJkNnpzdzJhY214ZWpzeW45cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+- Python 🐍
+- Git & GitHub 🌐
+- Lógica de Programação 🧩
+
+---
+
+## 📈 Objetivos
+- Melhorar meus conhecimentos em Python.  
+- Criar projetos práticos para aplicar o que aprendo.  
+- Compartilhar minha evolução aqui no GitHub.  
+
+---
+
+## 📫 Como me encontrar
+- Whastapp : 11950251465
+- Email: keduardokaio29@gmail.com  
+
+---
+✨ “Todo expert já foi iniciante um dia.”
